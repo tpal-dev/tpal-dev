@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tpal-dev 
-- 👀 I’m interested in Cross-platform tech
+- 👀 I’m interested and cross-platform solutions
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me tpal.developer@gmail.com
