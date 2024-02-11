@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @tpal-dev<br>👀 I’m interested in mobile and cross-platform solutions<br>🌱 I’m currently improving my skills in Flutter, Node.js<br>📫 How to reach me tpal.dev@gmail.com
-
+👋 Hi, I’m @tpal-dev<br>👀 I’m interested in mobile and cross-platform solutions<br>🌱 I’m currently improving my skills in Flutter, Node.js<br>📫 How to reach me tpal.dev@gmail.com <br>📱 Portfolio web app 
+[www.tpal.com.pl](https://www.tpal.com.pl)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomaszpaluszkiewicz) 
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tpal-dev&icon=0&color=1)](https://visitcount.itsvg.in)
